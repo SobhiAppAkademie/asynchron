@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../domain/car.dart';
+import '../models/car.dart';
 
 class StartScreen extends StatefulWidget {
   const StartScreen({super.key});
